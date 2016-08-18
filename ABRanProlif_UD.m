@@ -4,6 +4,7 @@
 % Generate a randomproliferation matrix for A and B-
 % <rB> = 1.5 and <rA> = 1.0
 % rB: D = [1.4,1.6] and rA: D = [0.9,1.1]
+%
 
 clc; clear all;
 
